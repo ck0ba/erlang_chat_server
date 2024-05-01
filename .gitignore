@@ -1,0 +1,4 @@
+*.beam
+src/*.beam
+.idea
+*.iml
